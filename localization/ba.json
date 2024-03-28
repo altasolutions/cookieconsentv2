@@ -1,0 +1,31 @@
+{
+				"consentModal": {
+					"title": "Obavještenje o kolačićima",
+					"description": "Internet stranica koristi kolačiće (uključujući kolačiće trećih lica) koji su apsolutno neophodni za nesmetan rad web stranice. Već smo učitali ove kolačiće za vas, ali bismo takođe željeli da koristimo analitičke i reklamne kolačiće, za šta nam je potrebna vaša saglasnost. Možete da promijenite svoju saglasnost za kolačiće u bilo kom trenutku u podešavanjima, gdje možete pronaći dodatne informacije o kolačićima. Možete dati saglasnost zasebno za pojedinačne svrhe ili za sve odjednom.",
+					"acceptAllBtn": "Prihvatam sve",
+
+					"showPreferencesBtn": "Promijeni podešavanje kolačića"
+				},
+				"preferencesModal": {
+					"title": "Podešavanje upotrebe kolačića",
+					"acceptAllBtn": "Prihvatam sve",
+
+					"savePreferencesBtn": "Sačuvaj postavke",
+					"closeIconLabel": "Zatvori",
+					"sections": [{
+							"title": "Upotreba kolačića",
+							"description": "Internet stranica koristi kolačiće (uključujući kolačiće trećih lica) koji su apsolutno neophodni za nesmetan rad web stranice. Već smo učitali ove kolačiće za vas, ali bismo takođe željeli da koristimo analitičke i reklamne kolačiće, za šta nam je potrebna vaša saglasnost. Možete da promijenite svoju saglasnost za kolačiće u bilo kom trenutku u podešavanjima, gdje možete pronaći dodatne informacije o kolačićima. Možete dati saglasnost zasebno za pojedinačne svrhe ili za sve odjednom."
+						},
+						{
+							"title": "Analitika",
+							"description": "Omogućavaju nam da pratimo i analiziramo aktivnosti korisnika web stranica u cilju poboljšanja funkcionalnosti web stranica ili naše usluge. Za analize se koriste alati Google Analytics.",
+							"linkedCategory": "analytics"
+						},
+						{
+							"title": "Oglašavanje",
+							"description": "Oni omogućavaju objavljivanje naših oglasa na internet pretraživačima, drugim internet stranicama i društvenim mrežama, i to na način da budu prilagođeni vašim interesovanjima.",
+							"linkedCategory": "ads"
+						}
+					]
+				}
+}
