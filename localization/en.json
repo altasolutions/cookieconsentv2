@@ -1,0 +1,31 @@
+{
+				"consentModal": {
+					"title": "This website uses cookies",
+					"description": "Our website uses cookies to improve user experience. We also have third parties that collect personal information this way. A cookie is a small data file that the Internet browser places on your device. It is what you could call “an identification card.” In other words, the cookie’s job is to notify the site that the user has returned. By remembering browser settings, login, and system information, the user is presented with a service-minded and optimized website. If you continue to review and use this website, you agree with the use of cookies.",
+					"acceptAllBtn": "Accept all",
+
+					"showPreferencesBtn": "Manage consent preferences"
+				},
+				"preferencesModal": {
+					"title": "Manage consent preferences",
+					"acceptAllBtn": "Accept all",
+
+					"savePreferencesBtn": "Save preferences",
+					"closeIconLabel": "Close",
+					"sections": [{
+							"title": "",
+							"description": "Our website uses cookies to improve user experience. We also have third parties that collect personal information this way. A cookie is a small data file that the Internet browser places on your device. It is what you could call “an identification card.” In other words, the cookie’s job is to notify the site that the user has returned. By remembering browser settings, login, and system information, the user is presented with a service-minded and optimized website. If you continue to review and use this website, you agree with the use of cookies."
+						},
+						{
+							"title": "Analytics",
+							"description": "These cookies allow us to monitor and analyze the activities of website users in order to improve the functionality of the website or our service. Google Analytics tools are used for analysis.",
+							"linkedCategory": "analytics"
+						},
+						{
+							"title": "Advertising",
+							"description": "These cookies allow us to publish our ads on internet browsers, other websites and social networks in a way that is tailored to your interests.",
+							"linkedCategory": "ads"
+						}
+					]
+				}
+}
